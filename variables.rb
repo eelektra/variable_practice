@@ -4,3 +4,6 @@ month = "November"
 day = 1
 zip_code = 80920
 year = 2022
+balance_$ = 12.99
+length_in = 2.75
+width_in = 4.25
