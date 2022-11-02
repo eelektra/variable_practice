@@ -7,3 +7,6 @@ year = 2022
 balance_$ = 12.99
 length_in = 2.75
 width_in = 4.25
+have_pet = false
+test_result = true
+light_on = false
